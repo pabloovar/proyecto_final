@@ -1,0 +1,169 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Choi%
+\ \protect \BOthers {.}}{%
+Choi%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+HA}
+\APACinsertmetastar {%
+HA}%
+\begin{APACrefauthors}%
+Choi, Y.%
+, Kwon, S\BPBI Y.%
+, Oh, H\BPBI J.%
+, Shim, S.%
+, Chang, S.%
+, Chung, H\BPBI J.%
+\BDBL {}Lee, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{{\APACmonth{09}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Application of recombinant hemagglutinin proteins as
+  alternative antigen standards for pandemic influenza vaccines.} {Application
+  of recombinant hemagglutinin proteins as alternative antigen standards for
+  pandemic influenza vaccines.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Biotechnology letters}{39}{}{1375--1380}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s10529-017-2372-8} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hornung%
+\ \protect \BOthers {.}}{%
+Hornung%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2008}}%
+}]{%
+infla}
+\APACinsertmetastar {%
+infla}%
+\begin{APACrefauthors}%
+Hornung, V.%
+, Bauernfeind, F.%
+, Halle, A.%
+, Samstad, E\BPBI O.%
+, Kono, H.%
+, Rock, K\BPBI L.%
+\BDBL {}Latz, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{{\APACmonth{08}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Silica crystals and aluminum salts activate the NALP3
+  inflammasome through phagosomal destabilization.} {Silica crystals and
+  aluminum salts activate the nalp3 inflammasome through phagosomal
+  destabilization.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nature immunology}{9}{}{847--856}.
+\newblock
+\begin{APACrefDOI} \doi{10.1038/ni.1631} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Junkins%
+\ \protect \BOthers {.}}{%
+Junkins%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+ady}
+\APACinsertmetastar {%
+ady}%
+\begin{APACrefauthors}%
+Junkins, R\BPBI D.%
+, Gallovic, M\BPBI D.%
+, Johnson, B\BPBI M.%
+, Collier, M\BPBI A.%
+, Watkins-Schulz, R.%
+, Cheng, N.%
+\BDBL {}Ting, J\BPBI P\BHBI Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{{\APACmonth{01}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A robust microparticle platform for a STING-targeted
+  adjuvant that enhances both humoral and cellular immunity during
+  vaccination.} {A robust microparticle platform for a sting-targeted adjuvant
+  that enhances both humoral and cellular immunity during vaccination.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of controlled release : official journal of the
+  Controlled Release Society}{270}{}{1--13}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.jconrel.2017.11.030} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kumar%
+\ \protect \BOthers {.}}{%
+Kumar%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+inmunodef2}
+\APACinsertmetastar {%
+inmunodef2}%
+\begin{APACrefauthors}%
+Kumar, D.%
+, Campbell, P.%
+, Hoschler, K.%
+, Hidalgo, L.%
+, Al-Dabbagh, M.%
+, Wilson, L.%
+\BCBL {}\ \BBA {} Humar, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{{\APACmonth{03}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Randomized Controlled Trial of Adjuvanted Versus
+  Nonadjuvanted Influenza Vaccine in Kidney Transplant Recipients.} {Randomized
+  controlled trial of adjuvanted versus nonadjuvanted influenza vaccine in
+  kidney transplant recipients.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Transplantation}{100}{}{662--669}.
+\newblock
+\begin{APACrefDOI} \doi{10.1097/TP.0000000000000861} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Martire%
+\ \protect \BOthers {.}}{%
+Martire%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+inmunodef}
+\APACinsertmetastar {%
+inmunodef}%
+\begin{APACrefauthors}%
+Martire, B.%
+, Azzari, C.%
+, Badolato, R.%
+, Canessa, C.%
+, Cirillo, E.%
+, Gallo, V.%
+\BDBL {}with Italian Network~for Primary Immunodeficiencies~(IPINET)%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{{\APACmonth{06}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Vaccination in immunocompromised host: Recommendations
+  of Italian Primary Immunodeficiency Network Centers (IPINET).} {Vaccination
+  in immunocompromised host: Recommendations of italian primary
+  immunodeficiency network centers (ipinet).}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Vaccine}{36}{}{3541--3554}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.vaccine.2018.01.061} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
