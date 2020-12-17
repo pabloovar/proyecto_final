@@ -1,0 +1,140 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Bosaeed~M%
+}{%
+Bosaeed~M%
+}{%
+{\protect \APACyear {2018 Mar 21}}%
+}]{%
+inmunodef2}
+\APACinsertmetastar {%
+inmunodef2}%
+\begin{APACrefauthors}%
+Bosaeed~M, K\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018 Mar 21}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Seasonal influenza vaccine in immunocompromised persons}
+  {Seasonal influenza vaccine in immunocompromised persons}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACciteatitle {Centro de Control y Prevención de enfermedades:
+  https://www.cdc.gov/flu/vaccines-work/past-seasons-estimates.html}}{%
+\APACciteatitle {Centro de Control y Prevención de enfermedades:
+  https://www.cdc.gov/flu/vaccines-work/past-seasons-estimates.html}}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+cdc}
+\APACinsertmetastar {%
+cdc}%
+{\BBOQ}\APACrefatitle {Centro de Control y Prevención de enfermedades:
+  https://www.cdc.gov/flu/vaccines-work/past-seasons-estimates.html} {Centro de
+  control y prevención de enfermedades:
+  https://www.cdc.gov/flu/vaccines-work/past-seasons-estimates.html}{\BBCQ}\
+  [\bibcomputersoftwaremanual].
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACciteatitle {Centro de Información de Medicamentos, Agencia española de
+  medicamentos y productos sanitarios:
+  https://cima.aemps.es/cima/pdfs/es/ft/82600/FT_82600.pdf}}{%
+\APACciteatitle {Centro de Información de Medicamentos, Agencia española de
+  medicamentos y productos sanitarios:
+  https://cima.aemps.es/cima/pdfs/es/ft/82600/FT_82600.pdf}}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+eur}
+\APACinsertmetastar {%
+eur}%
+{\BBOQ}\APACrefatitle {Centro de Información de Medicamentos, Agencia
+  española de medicamentos y productos sanitarios:
+  https://cima.aemps.es/cima/pdfs/es/ft/82600/FT_82600.pdf} {Centro de
+  información de medicamentos, agencia española de medicamentos y productos
+  sanitarios: https://cima.aemps.es/cima/pdfs/es/ft/82600/ft$_82600.pdf}{\BBCQ}\
+  [\bibcomputersoftwaremanual].
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\PrintBackRefs{\CurrentBib}
+$
+\bibitem [\protect \citeauthoryear {%
+Junkins~RD%
+}{%
+Junkins~RD%
+}{%
+{\protect \APACyear {2018 Jan 28}}%
+}]{%
+Ady}
+\APACinsertmetastar {%
+Ady}%
+\begin{APACrefauthors}%
+Junkins~RD, J\BPBI B\BPBI C\BPBI M\BPBI W\BHBI S\BPBI R\BPBI C\BPBI N\BPBI
+  D\BPBI C\BPBI M\BPBI C\BPBI S\BPBI G\BPBI S\BPBI I\BPBI M\BPBI K\BPBI B\BPBI
+  E\BPBI A\BPBI K\BPBI T\BPBI J., Gallovic~MD.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018 Jan 28}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A robust microparticle platform for a STING-targeted
+  adjuvant that enhances both humoral and cellular immunity during vaccination.
+  J Control Release.} {A robust microparticle platform for a sting-targeted
+  adjuvant that enhances both humoral and cellular immunity during vaccination.
+  j control release.}{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Martire~B%
+}{%
+Martire~B%
+}{%
+{\protect \APACyear {2018 Jun 7}}%
+}]{%
+inmunodef}
+\APACinsertmetastar {%
+inmunodef}%
+\begin{APACrefauthors}%
+Martire~B, B\BPBI R\BPBI C\BPBI C\BPBI C\BPBI E\BPBI G\BPBI V\BPBI G\BPBI
+  S\BPBI L\BPBI T\BPBI M\BPBI C\BPBI P\BPBI R\BPBI M\BPBI V\BPBI w\BPBI I\BPBI
+  N\BPBI f\BPBI P\BPBI I\BPBI I., Azzari~C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018 Jun 7}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Vaccination in immunocompromised host: Recommendations
+  of Italian Primary Immunodeficiency Network Centers (IPINET).} {Vaccination
+  in immunocompromised host: Recommendations of italian primary
+  immunodeficiency network centers (ipinet).}{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACciteatitle {Organización Mundial de la Salud:
+  https://apps.who.int/iris/handle/10665/258764}}{%
+\APACciteatitle {Organización Mundial de la Salud:
+  https://apps.who.int/iris/handle/10665/258764}}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+oms}
+\APACinsertmetastar {%
+oms}%
+{\BBOQ}\APACrefatitle {Organización Mundial de la Salud:
+  https://apps.who.int/iris/handle/10665/258764} {Organización mundial de la
+  salud: https://apps.who.int/iris/handle/10665/258764}{\BBCQ}\
+  [\bibcomputersoftwaremanual].
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
